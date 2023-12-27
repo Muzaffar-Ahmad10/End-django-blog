@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: learning Django
+about: Its About Leraning
 title: ''
 labels: ''
 assignees: ''
